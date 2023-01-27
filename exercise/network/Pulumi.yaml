@@ -1,0 +1,3 @@
+name: pulumi-az-ts-training-session-4-network
+description: Network portion of the training
+runtime: nodejs

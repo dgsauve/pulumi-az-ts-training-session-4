@@ -1,0 +1,3 @@
+config:
+  azure-native:location: WestUS2
+  pulumi-az-ts-training-session-4-app:username: babaoreally

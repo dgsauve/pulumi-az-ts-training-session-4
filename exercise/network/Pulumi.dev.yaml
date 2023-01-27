@@ -1,0 +1,4 @@
+config:
+  azure-native:location: WestUS2
+  pulumi-az-ts-training-session-4-network:cidrBlock: 10.21.34.0/24
+  pulumi-az-ts-training-session-4-network:subnetMask: 10.21.34.0/26

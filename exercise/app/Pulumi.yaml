@@ -1,0 +1,3 @@
+name: pulumi-az-ts-training-session-4-app
+description: App portion of training
+runtime: nodejs
